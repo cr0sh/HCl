@@ -1,0 +1,5 @@
+name: HCl-server
+author: scalar77
+version: 0.1b
+main: hcl\HCl
+api: 1.12.0
